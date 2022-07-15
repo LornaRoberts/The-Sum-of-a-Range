@@ -1,2 +1,6 @@
 # The-Sum-of-a-Range
 exercise from p.78 of 'Eloquent JavaScript'
+
+...
+Next, write a ```sum``` function that takes an array of numbers and returns the sum of these numbers...
+As a bonus assignment, modify your ```range``` function to take an optional third argument that indicates the "step" value used when building the array. If no step is given, the elements go up by increments of one, corresponding to the old behaviour.
